@@ -1,16 +1,17 @@
-### Hi there 👋
+# Ginés Sáez Molero - Cuenta Educativa IES Dos Mares
 
-<!--
-**Elchuso321/Elchuso321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descripción
 
-Here are some ideas to get you started:
+¡Hola! Soy Ginés Sáez Molero, un estudiante de Desarrollo de Aplicaciones Web apasionado por la tecnología y la programación.
+Me encanta crear soluciones innovadoras que sean útiles y prácticas para las personas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis habilidades
+- Lenguajes de programación: JavaScript, Python
+- Frameworks y tecnologías: Django, React
+- Herramientas: Git, VS Code
+
+## Contacto
+- LinkedIn: [Ginés Sáez Molero](https://www.linkedin.com/in/gines-saez-molero-362a89257)
+
+¡Gracias por visitar mi página de GitHub! Espero que encuentres algo interesante aquí.
+
